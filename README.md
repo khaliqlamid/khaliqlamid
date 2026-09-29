@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-I’m a Data Analyst adept at interpreting complex datasets for strategic decision-making. Utilizing technical skills, including Python and SQL, I create data models, dashboards, and analytical solutions to support business decision-making.
+I’m a Data Science professional adept at interpreting complex datasets to uncover meaningful insights and support data-driven decision-making. Utilizing technical skills, including Python and SQL, I analyse data, build predictive models, and develop dashboards to communicate actionable findings.
 
-I have developed insights through data analysis, market research, and KPI reporting in team settings. I am eager to further develop my expertise by applying data-driven approaches, maintaining analytical solutions, and incorporating key metrics into operations to uncover actionable insights.
+I have applied data analysis and machine learning techniques to real-world projects, using statistical analysis and data visualisation to identify patterns and inform decision-making. I am eager to further develop my expertise by applying data-driven approaches to practical problems and uncovering actionable insights.
 
 ---
 
@@ -33,14 +33,11 @@ I have developed insights through data analysis, market research, and KPI report
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### ☁️ Cloud & Big Data
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
