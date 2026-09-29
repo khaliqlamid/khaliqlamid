@@ -2,7 +2,7 @@
 
 💻 **Data Analyst | Data Science | Machine Learning**
 
-📍 Based in Newcastle upon Tyne, England  
+📍 Based in Newcastle, England  
 📧 [Khaliqlamid@gmail.com](mailto:Khaliqlamid@gmail.com)
 
 ---
