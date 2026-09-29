@@ -51,16 +51,14 @@ I have applied data analysis and machine learning techniques to real-world proje
 - Identified that incomplete answers clustered around information distributed across multiple webpages, providing a specific finding to inform future development.
 - Presented the methodology, results, and limitations to a non-specialist audience through a first-author research poster and regular project updates.
 
-### ⚙️ Assistant Operations Support & IT Infrastructure — Sterling Energy
-
-January 2024 – December 2024
+### ⚙️ Assistant Operations Support & IT Infrastructure — Sterling Energy 
+Lagos | January 2024 – December 2024
 
 - Managed a central dataset covering 35+ vessels and their licence status, rebuilding it in Excel using Power Query and lookups to provide teams with a consistent source of information.
 - Worked with colleagues to identify and resolve data discrepancies and tracked renewal deadlines with parent companies and regulatory authorities.
 
 ### 💻 IT Support — Malton Technologies
-
-January 2022 – June 2022
+Lagos | January 2022 – June 2022
 
 - Supported 12+ users with recurring technical issues and documented troubleshooting procedures to help resolve common problems without escalation.
 
